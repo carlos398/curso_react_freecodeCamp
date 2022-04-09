@@ -1,0 +1,10 @@
+.contenedor-card {
+  width: 100%;
+  max-width: 70%;
+  height: 200px;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  padding: 20px;
+  margin-top: 50px;
+}
